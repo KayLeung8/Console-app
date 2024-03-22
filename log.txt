@@ -1,0 +1,88 @@
+user input 1
+astronaut 1:
+name: Sergey Prokopyev
+craft: ISS
+astronaut 2:
+name: Dmitry Petelin
+craft: ISS
+astronaut 3:
+name: Frank Rubio
+craft: ISS
+astronaut 4:
+name: Jing Haiping
+craft: Tiangong
+astronaut 5:
+name: Gui Haichow
+craft: Tiangong
+astronaut 6:
+name: Zhu Yangzhu
+craft: Tiangong
+astronaut 7:
+name: Jasmin Moghbeli
+craft: ISS
+astronaut 8:
+name: Andreas Mogensen
+craft: ISS
+astronaut 9:
+name: Satoshi Furukawa
+craft: ISS
+astronaut 10:
+name: Konstantin Borisov
+craft: ISS
+astronaut 11:
+name: Oleg Kononenko
+craft: ISS
+astronaut 12:
+name: Nikolai Chub
+craft: ISS
+astronaut 13:
+name: Loral O'Hara
+craft: ISS
+user input 2
+The current location of the International Space Station is as follows:
+latitude: 25.3955
+longitude: -35.7205
+user input 1
+astronaut 1:
+name: Sergey Prokopyev
+craft: ISS
+astronaut 2:
+name: Dmitry Petelin
+craft: ISS
+astronaut 3:
+name: Frank Rubio
+craft: ISS
+astronaut 4:
+name: Jing Haiping
+craft: Tiangong
+astronaut 5:
+name: Gui Haichow
+craft: Tiangong
+astronaut 6:
+name: Zhu Yangzhu
+craft: Tiangong
+astronaut 7:
+name: Jasmin Moghbeli
+craft: ISS
+astronaut 8:
+name: Andreas Mogensen
+craft: ISS
+astronaut 9:
+name: Satoshi Furukawa
+craft: ISS
+astronaut 10:
+name: Konstantin Borisov
+craft: ISS
+astronaut 11:
+name: Oleg Kononenko
+craft: ISS
+astronaut 12:
+name: Nikolai Chub
+craft: ISS
+astronaut 13:
+name: Loral O'Hara
+craft: ISS
+user input 2
+The current location of the International Space Station is as follows:
+latitude: 48.5184
+longitude: -10.9690
